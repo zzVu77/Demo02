@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-#define MAX 10
+#define MAX 1000
 class Stack {
     int top = -1;
 public:
